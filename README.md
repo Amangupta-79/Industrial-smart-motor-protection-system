@@ -71,7 +71,7 @@ The system also allows **remote monitoring using IoT**, enabling users to check 
 
 ## 🖼 Circuit Diagram
 
-circuit.png
+![Circuit](circuit.png)
 
 ---
 
@@ -108,6 +108,7 @@ https://youtube.com/
 Aman Kumar Gupta
 B.Tech – Electronics and Communication Engineering  
 University College of Engineering and Technology, Hazaribag (VBU)
+
 
 
 
