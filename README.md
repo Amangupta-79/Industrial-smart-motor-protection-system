@@ -1,9 +1,10 @@
 # 🚀 Industrial Smart Motor Protection System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Amangupta-79/Industrial-smart-motor-protection-system)
-![GitHub stars](https://img.shields.io/github/stars/Amangupta-79/Industrial-smart-motor-protection-system)
-![GitHub forks](https://img.shields.io/github/forks/Amangupta-79/Industrial-smart-motor-protection-system)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
+![Language](https://img.shields.io/badge/Language-Embedded%20C-orange)
+![Simulator](https://img.shields.io/badge/Simulation-Wokwi-green)
+
+
 
 An IoT-based **Smart Motor Protection and Monitoring System** built using ESP32.  
 The system continuously monitors **motor temperature and load conditions** to prevent overheating and overload failures in industrial environments.
@@ -113,6 +114,7 @@ https://youtube.com/
 Aman Kumar Gupta
 B.Tech – Electronics and Communication Engineering  
 University College of Engineering and Technology, Hazaribag (VBU)
+
 
 
 
